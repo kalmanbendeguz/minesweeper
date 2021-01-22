@@ -17,4 +17,4 @@ In the *minesweeper* folder (parent folder of src):
 
 12.0.2
 
-*JRE version should be at least as high as JDK version*
+*JRE version should be at least as high as JDK version.*
