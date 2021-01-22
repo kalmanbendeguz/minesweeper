@@ -10,7 +10,11 @@ In the *minesweeper* folder (parent folder of src):
 3. `java minesweeper.main.Main`
 
 #### Tested JDK versions:
+
 1.8.0_241
+
 11.0.6
+
 12.0.2
+
 *JRE version should be at least as high as JDK version*
